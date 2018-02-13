@@ -1,0 +1,9 @@
+ws/exceptions/ExceptionHandlerController.class
+ws/exceptions/BadRequestException.class
+ws/Application.class
+ws/interceptors/validators/PlatformValidator.class
+ws/config/SwaggerConfig.class
+ws/interceptors/IValidator.class
+ws/interceptors/HeaderValidatorInterceptor.class
+ws/HeaderController.class
+ws/config/ValidatorConfig.class
