@@ -1,0 +1,9 @@
+/Users/carloscastillo/api-ws1/src/main/java/ws/interceptors/IValidator.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/exceptions/ExceptionHandlerController.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/exceptions/BadRequestException.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/HeaderController.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/interceptors/validators/PlatformValidator.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/Application.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/interceptors/HeaderValidatorInterceptor.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/config/ValidatorConfig.java
+/Users/carloscastillo/api-ws1/src/main/java/ws/config/SwaggerConfig.java
